@@ -1,9 +1,6 @@
 * {
   box-sizing: border-box;
 }
-body {
-  font-family: 'Montserrat', sans-serif;
-}
 
 body {
   margin: 16px;
@@ -14,4 +11,8 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
 }
